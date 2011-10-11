@@ -13,7 +13,7 @@ Package detailed description here (found in README)</description>
   <active>yes</active>
  </lead>
  <date>2011-10-11</date>
- <time>15:56:37</time>
+ <time>16:31:26</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -395,19 +395,19 @@ Package Zend_Service API release notes for version 0.1.0.</notes>
     <min>2.0.0a1</min>
    </pearinstaller>
    <package>
-    <name>Zend\Http</name>
+    <name>Zend_Http</name>
     <channel>packages.zendframework.com</channel>
    </package>
    <package>
-    <name>Zend\Uri</name>
+    <name>Zend_Uri</name>
     <channel>packages.zendframework.com</channel>
    </package>
    <package>
-    <name>Zend\Rest</name>
+    <name>Zend_Rest</name>
     <channel>packages.zendframework.com</channel>
    </package>
    <package>
-    <name>Zend\Crypt</name>
+    <name>Zend_Crypt</name>
     <channel>packages.zendframework.com</channel>
    </package>
   </required>

@@ -1,7 +1,7 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Config',
-    1 => 'Zend\EventManager',
+    0 => 'Zend_Config',
+    1 => 'Zend_EventManager',
   ),
 );

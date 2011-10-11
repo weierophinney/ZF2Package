@@ -1,8 +1,8 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Config',
-    1 => 'Zend\Json',
-    2 => 'Zend\View',
+    0 => 'Zend_Config',
+    1 => 'Zend_Json',
+    2 => 'Zend_View',
   ),
 );

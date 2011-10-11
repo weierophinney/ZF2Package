@@ -1,9 +1,9 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Config',
-    1 => 'Zend\Locale',
-    2 => 'Zend\Registry',
-    3 => 'Zend\Validator',
+    0 => 'Zend_Config',
+    1 => 'Zend_Locale',
+    2 => 'Zend_Registry',
+    3 => 'Zend_Validator',
   ),
 );

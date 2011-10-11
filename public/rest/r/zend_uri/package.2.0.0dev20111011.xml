@@ -13,7 +13,7 @@ Package detailed description here (found in README)</description>
   <active>yes</active>
  </lead>
  <date>2011-10-11</date>
- <time>15:56:42</time>
+ <time>16:31:30</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -49,7 +49,7 @@ Package Zend_Uri API release notes for version 0.1.0.</notes>
     <min>2.0.0a1</min>
    </pearinstaller>
    <package>
-    <name>Zend\Validator</name>
+    <name>Zend_Validator</name>
     <channel>packages.zendframework.com</channel>
    </package>
   </required>

@@ -1,8 +1,8 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Translator',
-    1 => 'Zend\Config',
-    2 => 'Zend\Db',
+    0 => 'Zend_Translator',
+    1 => 'Zend_Config',
+    2 => 'Zend_Db',
   ),
 );

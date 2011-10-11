@@ -1,9 +1,9 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Http',
-    1 => 'Zend\Uri',
-    2 => 'Zend\Rest',
-    3 => 'Zend\Crypt',
+    0 => 'Zend_Http',
+    1 => 'Zend_Uri',
+    2 => 'Zend_Rest',
+    3 => 'Zend_Crypt',
   ),
 );

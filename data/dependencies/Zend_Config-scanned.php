@@ -1,6 +1,6 @@
 <?php return array (
   'required' => 
   array (
-    0 => 'Zend\Json',
+    0 => 'Zend_Json',
   ),
 );
