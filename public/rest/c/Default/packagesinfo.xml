@@ -94,6 +94,29 @@ Package detailed description here (found in README)</d>
  </pi>
  <pi>
   <p>
+   <n>Zend_Config</n>
+   <c>packages.zendframework.com</c>
+   <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
+   <l>New BSD License</l>
+   <s>Package Zend_Config summary.
+</s>
+   <d>
+Package detailed description here (found in README)</d>
+   <r xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package http://pear.php.net/dtd/rest.package.xsd"/>
+  </p>
+  <a>
+   <r>
+    <v>2.0.0dev20111011</v>
+    <s>devel</s>
+   </r>
+  </a>
+  <deps>
+   <v>2.0.0dev20111011</v>
+   <d>a:1:{s:8:&quot;required&quot;;a:3:{s:3:&quot;php&quot;;a:1:{s:3:&quot;min&quot;;s:5:&quot;5.2.0&quot;;}s:13:&quot;pearinstaller&quot;;a:1:{s:3:&quot;min&quot;;s:7:&quot;2.0.0a1&quot;;}s:7:&quot;package&quot;;a:2:{s:4:&quot;name&quot;;s:9:&quot;Zend_Json&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}}}</d>
+  </deps>
+ </pi>
+ <pi>
+  <p>
    <n>Zend_Crypt</n>
    <c>packages.zendframework.com</c>
    <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
@@ -301,6 +324,29 @@ Package detailed description here (found in README)</d>
  </pi>
  <pi>
   <p>
+   <n>Zend_Json</n>
+   <c>packages.zendframework.com</c>
+   <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
+   <l>New BSD License</l>
+   <s>Package Zend_Json summary.
+</s>
+   <d>
+Package detailed description here (found in README)</d>
+   <r xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package http://pear.php.net/dtd/rest.package.xsd"/>
+  </p>
+  <a>
+   <r>
+    <v>2.0.0dev20111011</v>
+    <s>devel</s>
+   </r>
+  </a>
+  <deps>
+   <v>2.0.0dev20111011</v>
+   <d>a:1:{s:8:&quot;required&quot;;a:3:{s:3:&quot;php&quot;;a:1:{s:3:&quot;min&quot;;s:5:&quot;5.2.0&quot;;}s:13:&quot;pearinstaller&quot;;a:1:{s:3:&quot;min&quot;;s:7:&quot;2.0.0a1&quot;;}s:7:&quot;package&quot;;a:2:{s:4:&quot;name&quot;;s:11:&quot;Zend_Server&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}}}</d>
+  </deps>
+ </pi>
+ <pi>
+  <p>
    <n>Zend_Loader</n>
    <c>packages.zendframework.com</c>
    <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
@@ -412,29 +458,6 @@ Package detailed description here (found in README)</d>
   <deps>
    <v>2.0.0dev20111011</v>
    <d>a:1:{s:8:&quot;required&quot;;a:3:{s:3:&quot;php&quot;;a:1:{s:3:&quot;min&quot;;s:5:&quot;5.2.0&quot;;}s:13:&quot;pearinstaller&quot;;a:1:{s:3:&quot;min&quot;;s:7:&quot;2.0.0a1&quot;;}s:7:&quot;package&quot;;a:3:{i:0;a:2:{s:4:&quot;name&quot;;s:14:&quot;Zend_Validator&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}i:1;a:2:{s:4:&quot;name&quot;;s:11:&quot;Zend_Filter&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}i:2;a:2:{s:4:&quot;name&quot;;s:17:&quot;Zend_EventManager&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}}}}</d>
-  </deps>
- </pi>
- <pi>
-  <p>
-   <n>Zend_Service</n>
-   <c>packages.zendframework.com</c>
-   <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
-   <l>New BSD License</l>
-   <s>Package Zend_Service summary.
-</s>
-   <d>
-Package detailed description here (found in README)</d>
-   <r xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package http://pear.php.net/dtd/rest.package.xsd"/>
-  </p>
-  <a>
-   <r>
-    <v>2.0.0dev20111011</v>
-    <s>devel</s>
-   </r>
-  </a>
-  <deps>
-   <v>2.0.0dev20111011</v>
-   <d>a:1:{s:8:&quot;required&quot;;a:3:{s:3:&quot;php&quot;;a:1:{s:3:&quot;min&quot;;s:5:&quot;5.2.0&quot;;}s:13:&quot;pearinstaller&quot;;a:1:{s:3:&quot;min&quot;;s:7:&quot;2.0.0a1&quot;;}s:7:&quot;package&quot;;a:4:{i:0;a:2:{s:4:&quot;name&quot;;s:9:&quot;Zend_Http&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}i:1;a:2:{s:4:&quot;name&quot;;s:8:&quot;Zend_Uri&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}i:2;a:2:{s:4:&quot;name&quot;;s:9:&quot;Zend_Rest&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}i:3;a:2:{s:4:&quot;name&quot;;s:10:&quot;Zend_Crypt&quot;;s:7:&quot;channel&quot;;s:26:&quot;packages.zendframework.com&quot;;}}}}</d>
   </deps>
  </pi>
  <pi>

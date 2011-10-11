@@ -4,6 +4,7 @@
  <p>zend_cache</p>
  <p>zend_cloud</p>
  <p>zend_code</p>
+ <p>zend_config</p>
  <p>zend_crypt</p>
  <p>zend_db</p>
  <p>zend_di</p>
@@ -13,11 +14,11 @@
  <p>zend_feed</p>
  <p>zend_filter</p>
  <p>zend_http</p>
+ <p>zend_json</p>
  <p>zend_loader</p>
  <p>zend_log</p>
  <p>zend_mail</p>
  <p>zend_module</p>
- <p>zend_service</p>
  <p>zend_session</p>
  <p>zend_stdlib</p>
  <p>zend_uri</p>
