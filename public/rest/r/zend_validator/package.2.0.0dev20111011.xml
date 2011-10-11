@@ -13,7 +13,7 @@ Package detailed description here (found in README)</description>
   <active>yes</active>
  </lead>
  <date>2011-10-11</date>
- <time>15:48:10</time>
+ <time>15:56:43</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -134,6 +134,18 @@ Package Zend_Validator API release notes for version 0.1.0.</notes>
    <pearinstaller>
     <min>2.0.0a1</min>
    </pearinstaller>
+   <package>
+    <name>Zend\Translator</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+   <package>
+    <name>Zend\Config</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+   <package>
+    <name>Zend\Db</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
   </required>
  </dependencies>
  <phprelease/>

@@ -5,4 +5,21 @@
  <p xlink:href="rest/p/Zend_Stdlib">Zend_Stdlib</p>
  <p xlink:href="rest/p/Zend_Uri">Zend_Uri</p>
  <p xlink:href="rest/p/Zend_Validator">Zend_Validator</p>
+ <p xlink:href="rest/p/Zend_Authentication">Zend_Authentication</p>
+ <p xlink:href="rest/p/Zend_Cache">Zend_Cache</p>
+ <p xlink:href="rest/p/Zend_Cloud">Zend_Cloud</p>
+ <p xlink:href="rest/p/Zend_Code">Zend_Code</p>
+ <p xlink:href="rest/p/Zend_Crypt">Zend_Crypt</p>
+ <p xlink:href="rest/p/Zend_Db">Zend_Db</p>
+ <p xlink:href="rest/p/Zend_Dojo">Zend_Dojo</p>
+ <p xlink:href="rest/p/Zend_Dom">Zend_Dom</p>
+ <p xlink:href="rest/p/Zend_EventManager">Zend_EventManager</p>
+ <p xlink:href="rest/p/Zend_Feed">Zend_Feed</p>
+ <p xlink:href="rest/p/Zend_Filter">Zend_Filter</p>
+ <p xlink:href="rest/p/Zend_Loader">Zend_Loader</p>
+ <p xlink:href="rest/p/Zend_Log">Zend_Log</p>
+ <p xlink:href="rest/p/Zend_Mail">Zend_Mail</p>
+ <p xlink:href="rest/p/Zend_Module">Zend_Module</p>
+ <p xlink:href="rest/p/Zend_Session">Zend_Session</p>
+ <p xlink:href="rest/p/Zend_Service">Zend_Service</p>
 </l>
