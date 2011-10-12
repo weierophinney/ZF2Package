@@ -12,8 +12,8 @@ Package detailed description here (found in README)</description>
   <email>handle@php.net</email>
   <active>yes</active>
  </lead>
- <date>2011-10-11</date>
- <time>16:46:16</time>
+ <date>2011-10-12</date>
+ <time>11:54:47</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -127,14 +127,16 @@ Package Zend_Http API release notes for version 0.1.0.</notes>
     <min>2.0.0a1</min>
    </pearinstaller>
    <package>
-    <name>Zend_Uri</name>
-    <channel>packages.zendframework.com</channel>
-   </package>
-   <package>
     <name>Zend_Stdlib</name>
     <channel>packages.zendframework.com</channel>
    </package>
   </required>
+  <optional>
+   <package>
+    <name>Zend_Uri</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+  </optional>
  </dependencies>
  <phprelease/>
 </package>

@@ -12,8 +12,8 @@ Package detailed description here (found in README)</description>
   <email>handle@php.net</email>
   <active>yes</active>
  </lead>
- <date>2011-10-11</date>
- <time>16:46:01</time>
+ <date>2011-10-12</date>
+ <time>11:57:27</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -86,15 +86,25 @@ Package Zend_Cloud API release notes for version 0.1.0.</notes>
    <pearinstaller>
     <min>2.0.0a1</min>
    </pearinstaller>
-   <package>
-    <name>Zend_Config</name>
-    <channel>packages.zendframework.com</channel>
-   </package>
-   <package>
-    <name>Zend_Service</name>
-    <channel>packages.zendframework.com</channel>
-   </package>
   </required>
+  <optional>
+   <package>
+    <name>Zend_Service_Amazon</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+   <package>
+    <name>Zend_Service_Rackspace</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+   <package>
+    <name>Zend_Service_GoGrid</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+   <package>
+    <name>Zend_Service_WindowsAzure</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
+  </optional>
  </dependencies>
  <phprelease/>
 </package>

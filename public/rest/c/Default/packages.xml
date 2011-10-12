@@ -23,4 +23,11 @@
  <p xlink:href="rest/p/Zend_Stdlib">Zend_Stdlib</p>
  <p xlink:href="rest/p/Zend_Uri">Zend_Uri</p>
  <p xlink:href="rest/p/Zend_Validator">Zend_Validator</p>
+ <p xlink:href="rest/p/Zend_Date">Zend_Date</p>
+ <p xlink:href="rest/p/Zend_Locale">Zend_Locale</p>
+ <p xlink:href="rest/p/Zend_Service_Amazon">Zend_Service_Amazon</p>
+ <p xlink:href="rest/p/Zend_Service_GoGrid">Zend_Service_GoGrid</p>
+ <p xlink:href="rest/p/Zend_Service_Rackspace">Zend_Service_Rackspace</p>
+ <p xlink:href="rest/p/Zend_Service_WindowsAzure">Zend_Service_WindowsAzure</p>
+ <p xlink:href="rest/p/Zend_Translator">Zend_Translator</p>
 </l>

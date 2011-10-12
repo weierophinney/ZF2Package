@@ -1,5 +1,5 @@
 <?php return array (
-  'required' => 
+  'optional' => 
   array (
     0 => 'Zend_Date',
     1 => 'Zend_Uri',

@@ -12,8 +12,8 @@ Package detailed description here (found in README)</description>
   <email>handle@php.net</email>
   <active>yes</active>
  </lead>
- <date>2011-10-11</date>
- <time>16:46:08</time>
+ <date>2011-10-12</date>
+ <time>11:54:38</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -92,11 +92,13 @@ Package Zend_Db API release notes for version 0.1.0.</notes>
    <pearinstaller>
     <min>2.0.0a1</min>
    </pearinstaller>
+  </required>
+  <optional>
    <package>
     <name>Zend_Config</name>
     <channel>packages.zendframework.com</channel>
    </package>
-  </required>
+  </optional>
  </dependencies>
  <phprelease/>
 </package>

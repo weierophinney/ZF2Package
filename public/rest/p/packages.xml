@@ -6,6 +6,7 @@
  <p>zend_code</p>
  <p>zend_config</p>
  <p>zend_crypt</p>
+ <p>zend_date</p>
  <p>zend_db</p>
  <p>zend_di</p>
  <p>zend_dojo</p>
@@ -16,11 +17,17 @@
  <p>zend_http</p>
  <p>zend_json</p>
  <p>zend_loader</p>
+ <p>zend_locale</p>
  <p>zend_log</p>
  <p>zend_mail</p>
  <p>zend_module</p>
+ <p>zend_service_amazon</p>
+ <p>zend_service_gogrid</p>
+ <p>zend_service_rackspace</p>
+ <p>zend_service_windowsazure</p>
  <p>zend_session</p>
  <p>zend_stdlib</p>
+ <p>zend_translator</p>
  <p>zend_uri</p>
  <p>zend_validator</p>
 </a>
