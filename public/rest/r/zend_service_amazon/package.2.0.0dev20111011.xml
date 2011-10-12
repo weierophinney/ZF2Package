@@ -13,7 +13,7 @@ Package detailed description here (found in README)</description>
   <active>yes</active>
  </lead>
  <date>2011-10-12</date>
- <time>11:54:57</time>
+ <time>15:27:49</time>
  <version>
   <release>2.0.0dev20111011</release>
   <api>2.0.0dev20111011</api>
@@ -95,6 +95,10 @@ Package Zend_Service_Amazon API release notes for version 0.1.0.</notes>
    <pearinstaller>
     <min>2.0.0a1</min>
    </pearinstaller>
+   <package>
+    <name>Zend_Http</name>
+    <channel>packages.zendframework.com</channel>
+   </package>
   </required>
   <optional>
    <package>
@@ -103,10 +107,6 @@ Package Zend_Service_Amazon API release notes for version 0.1.0.</notes>
    </package>
    <package>
     <name>Zend_Crypt</name>
-    <channel>packages.zendframework.com</channel>
-   </package>
-   <package>
-    <name>Zend_Http</name>
     <channel>packages.zendframework.com</channel>
    </package>
   </optional>

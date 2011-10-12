@@ -1,6 +1,6 @@
 <?php return array (
-  'optional' => 
+  'required' => 
   array (
-    0 => 'Zend_Http',
+    'Zend_Http',
   ),
 );

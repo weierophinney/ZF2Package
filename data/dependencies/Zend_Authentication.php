@@ -1,6 +1,8 @@
 <?php return array (
   'optional' => 
   array (
-    0 => 'Zend_Code',
+    'Zend_Db',
+    'Zend_Uri',
+    'Zend_Session',
   ),
 );

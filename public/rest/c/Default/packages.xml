@@ -6,6 +6,7 @@
  <p xlink:href="rest/p/Zend_Code">Zend_Code</p>
  <p xlink:href="rest/p/Zend_Config">Zend_Config</p>
  <p xlink:href="rest/p/Zend_Crypt">Zend_Crypt</p>
+ <p xlink:href="rest/p/Zend_Date">Zend_Date</p>
  <p xlink:href="rest/p/Zend_Di">Zend_Di</p>
  <p xlink:href="rest/p/Zend_Db">Zend_Db</p>
  <p xlink:href="rest/p/Zend_Dojo">Zend_Dojo</p>
@@ -16,18 +17,17 @@
  <p xlink:href="rest/p/Zend_Http">Zend_Http</p>
  <p xlink:href="rest/p/Zend_Json">Zend_Json</p>
  <p xlink:href="rest/p/Zend_Loader">Zend_Loader</p>
+ <p xlink:href="rest/p/Zend_Locale">Zend_Locale</p>
  <p xlink:href="rest/p/Zend_Log">Zend_Log</p>
  <p xlink:href="rest/p/Zend_Mail">Zend_Mail</p>
  <p xlink:href="rest/p/Zend_Module">Zend_Module</p>
  <p xlink:href="rest/p/Zend_Session">Zend_Session</p>
- <p xlink:href="rest/p/Zend_Stdlib">Zend_Stdlib</p>
- <p xlink:href="rest/p/Zend_Uri">Zend_Uri</p>
- <p xlink:href="rest/p/Zend_Validator">Zend_Validator</p>
- <p xlink:href="rest/p/Zend_Date">Zend_Date</p>
- <p xlink:href="rest/p/Zend_Locale">Zend_Locale</p>
  <p xlink:href="rest/p/Zend_Service_Amazon">Zend_Service_Amazon</p>
  <p xlink:href="rest/p/Zend_Service_GoGrid">Zend_Service_GoGrid</p>
  <p xlink:href="rest/p/Zend_Service_Rackspace">Zend_Service_Rackspace</p>
  <p xlink:href="rest/p/Zend_Service_WindowsAzure">Zend_Service_WindowsAzure</p>
+ <p xlink:href="rest/p/Zend_Stdlib">Zend_Stdlib</p>
  <p xlink:href="rest/p/Zend_Translator">Zend_Translator</p>
+ <p xlink:href="rest/p/Zend_Uri">Zend_Uri</p>
+ <p xlink:href="rest/p/Zend_Validator">Zend_Validator</p>
 </l>
