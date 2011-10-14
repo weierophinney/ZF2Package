@@ -1,0 +1,26 @@
+#header {
+    background: url(http://framework.zend.com/images/bkg_top.gif) left top repeat-x;
+    height: 51px;
+}
+#footer {
+background: #F2F2F2 url(http://framework.zend.com/images/bkg_footer.gif) left top repeat-x;
+min-height: 73px;
+}
+#footer .copy {
+    text-align: right;
+}
+
+ol {
+    list-style: decimal outside;
+    margin-left: 0;
+}
+
+ol > li:before {
+    font-weight: bold;
+    float: left;
+    width: 40px;
+}
+
+ol li {
+    clear: left;
+}
